@@ -1,0 +1,5 @@
+ABC
+Hello > hello.txt
+notepad hello.txt
+ls
+dir
